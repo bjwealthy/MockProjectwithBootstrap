@@ -1,0 +1,28 @@
+
+
+*{
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+html{
+	background-color: #fff;
+	font-family: arial;
+	font-size: 20px;
+	text-rendering: optimizeLegibility;
+}
+
+.logo{
+	width: 128px;
+	height: 128px;
+	float: left; 
+	
+}
+
+.mock-name{
+	float: right;
+	color: #BCBBBB;
+	font-size: 120px;
+}
